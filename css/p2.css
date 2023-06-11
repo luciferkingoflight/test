@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 @font-face {
-    font-family: "Teko";
-    src: url("./../css/fonts/Teko-Regular.woff2") format("woff2");
+    font-family: Teko;
+    src: url("../css/fonts/Teko-Regular.woff2") format("woff2");
     font-style: normal;
     font-weight: normal;
 }
