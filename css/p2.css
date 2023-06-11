@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: "Teko";
-    src: url("../css/fonts/Teko-Meduium.woff");
+    src: url("../css/fonts/Teko-Meduium.woff") format("woff");
 }
 body{
     background-color: #E3DFD6;
