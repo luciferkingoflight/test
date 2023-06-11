@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: "Teko";
-    src: url(css/Teko-Regular.ttf);
+    src: url(../css/Teko-Regular.ttf);
 }
 body{
     background-color: #E3DFD6;
