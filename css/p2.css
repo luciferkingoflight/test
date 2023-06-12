@@ -5,10 +5,10 @@
 }
 @font-face {
     font-family: "Teko", sans-serif;
-    src: url("../fonts/Teko-Regular.woff2") format("woff2"), 
-         url("../fonts/Teko-Regular.woff") format("woff"), 
-         url("../fonts/Teko-Regular.ttf") format("truetype"), 
-         url("../fonts/Teko-Regular.otf") format("opentype");
+    src: url("../css/fonts/Teko-Regular.woff2") format("woff2"), 
+         url("../css/fonts/Teko-Regular.woff") format("woff"), 
+         url("../css/fonts/Teko-Regular.ttf") format("truetype"), 
+         url("../css/fonts/Teko-Regular.otf") format("opentype");
     font-style: normal;
     font-weight: normal;
 }
