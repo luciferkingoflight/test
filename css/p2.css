@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 @font-face {
-    font-family: 'Teko', sans-serif;
+    font-family: "Teko-Regular", sans-serif;
     src: url("../fonts/Teko-Regular.woff2") format("woff2"), 
          url("../fonts/Teko-Regular.woff") format("woff"), 
          url("../fonts/Teko-Regular.ttf") format("truetype"), 
@@ -14,7 +14,7 @@
 }
 body{
     background-color: #E3DFD6;
-    font-family: 'Teko';
+    font-family: "Teko-Regular";
     font-size: 1.3em;
 }
 main{
