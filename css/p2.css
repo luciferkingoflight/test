@@ -4,17 +4,17 @@
     box-sizing: border-box;
 }
 @font-face {
-    font-family: "Teko-Regular", sans-serif;
-    src: url("../css/fonts/Teko-Regular.woff2") format("woff2"), 
-         url("../css/fonts/Teko-Regular.woff") format("woff"), 
-         url("../css/fonts/Teko-Regular.ttf") format("truetype"), 
-         url("../css/fonts/Teko-Regular.otf") format("opentype");
+    font-family: 'Teko', sans-serif;
+    src: url('../css/fonts/Teko-Regular.woff2') format('woff2'), 
+         url('../css/fonts/Teko-Regular.woff') format('woff'), 
+         url('../css/fonts/Teko-Regular.ttf') format('truetype'), 
+         url('../css/fonts/Teko-Regular.otf') format('opentype');
     font-style: normal;
     font-weight: normal;
 }
 body{
     background-color: #E3DFD6;
-    font-family: "Teko-Regular";
+    font-family: 'Teko';
     font-size: 1.3em;
 }
 main{
